@@ -48,7 +48,7 @@ $ python daysnmeals.py
 ```sh
 $ python project.py
 ```
-* After finish running project.py you can use your favorite browser to visit [WhatsForDinner](http://localhost:8000/)
+* After finished running project.py you can use your favorite browser to visit [WhatsForDinner](http://localhost:8000/)
 
 ### Feel free to test out the JSON endpoints
 * Returns JSON of all Days of the Week
